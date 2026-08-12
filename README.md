@@ -3,7 +3,7 @@
 ## Requires QuPath v0.4.0 or higher
 
 ## To use:
-1. Open QuPath and load your image\
+1. Open QuPath and load your image
 2. Automate --> Script Editor
 3. Run random_ROI_square_generator.groovy
 
